@@ -1,0 +1,129 @@
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\EFCoreExample.exe
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\EFCoreExample.deps.json
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\EFCoreExample.runtimeconfig.json
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\EFCoreExample.runtimeconfig.dev.json
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\EFCoreExample.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\ref\EFCoreExample.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\EFCoreExample.pdb
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Humanizer.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\obj\Debug\net5.0\EFCoreExample.csproj.AssemblyReference.cache
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\obj\Debug\net5.0\EFCoreExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\obj\Debug\net5.0\EFCoreExample.AssemblyInfoInputs.cache
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\obj\Debug\net5.0\EFCoreExample.AssemblyInfo.cs
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\obj\Debug\net5.0\EFCoreExample.csproj.CoreCompileInputs.cache
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\obj\Debug\net5.0\EFCoreExample.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\obj\Debug\net5.0\ref\EFCoreExample.dll
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\obj\Debug\net5.0\EFCoreExample.pdb
+D:\Nasir-Batch-08\EFCoreExample\EFCoreExample\EFCoreExample\obj\Debug\net5.0\EFCoreExample.genruntimeconfig.cache
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\EFCoreExample.exe
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\EFCoreExample.deps.json
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\EFCoreExample.runtimeconfig.json
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\EFCoreExample.runtimeconfig.dev.json
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\EFCoreExample.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\ref\EFCoreExample.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\EFCoreExample.pdb
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Humanizer.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\System.Security.Permissions.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\System.Windows.Extensions.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\obj\Debug\net5.0\EFCoreExample.csproj.AssemblyReference.cache
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\obj\Debug\net5.0\EFCoreExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\obj\Debug\net5.0\EFCoreExample.AssemblyInfoInputs.cache
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\obj\Debug\net5.0\EFCoreExample.AssemblyInfo.cs
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\obj\Debug\net5.0\EFCoreExample.csproj.CoreCompileInputs.cache
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\obj\Debug\net5.0\EFCoreExample.csproj.CopyComplete
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\obj\Debug\net5.0\EFCoreExample.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\obj\Debug\net5.0\ref\EFCoreExample.dll
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\obj\Debug\net5.0\EFCoreExample.pdb
+E:\Nasir Practice\Practice\EFCoreExample\EFCoreExample\obj\Debug\net5.0\EFCoreExample.genruntimeconfig.cache
